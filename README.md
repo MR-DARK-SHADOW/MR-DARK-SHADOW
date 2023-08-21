@@ -29,21 +29,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
-###
+## <!-- Typing SVG -->
+<p align="center">
+    <a href="https://github.com/MR-DARK-SHADOW">
+        <img align="center"
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Dark%20+%20Shadowl+..."
+            alt="Typing SVG"
+        />
+    </a>
+</p>                                
+ 
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
 
-###
 
-<br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
-###
+- 😇 I'm not programmer
+ 
+- 👀 I’m interested on whatsapp bots
+
+- 🌱 I’m currently learning HTML
+- <h3 align="left">Connect with me:</h3><p>   <a href="https://youtube.com/@sltechbrowser1515" target="blank"><img align="center" src="https://i.ibb.co/YkThzVT/Seek-Png-com-youtube-icon-png-8071516-1.png" alt="https://youtube.com/@sltechbrowser1515" height="40" width="40" /></a>  <a href="https://wa.me/94751150234" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5649/5649647.png" alt="https://wa.me/94751150234" height="50" width="50" /></a> 
+</p>
+
+
+
+ <p align="center"> <a href="https://github.com/MR-DARK-SHADOW"><img src="https://github-profile-trophy.vercel.app/?username=MR-DARK-SHADOW&no-bg=true&no-frame=false&theme=algolia"></a></p>
+
+<p align="center"> <a href="https://github.com/MR-DARK-SHADOW"><img  src="http://github-readme-streak-stats.herokuapp.com?user=MR-DARK-SHADOW&theme=github-dark-blue&hide_border=false&background=DDD9DA00&stroke=00AEFF&fire=00AEFF&ring=00AEFF&currStreakNum=00AEFF&currStreakLabel=00AEFF&sideLabels=00AEFF&dates=00AEFF&sideNums=00AEFF"></a></p>
+<p align="center"> <a href="https://github.com/MR-DARK-SHADOW"><img src="https://github-readme-stats.vercel.app/api?username=MR-DARK-SHADOW&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF&show_icons=TRUE&icon_color=00AEFF" > </a> </p>
+<p align="center"> <a href="https://github.com/MR-DARK-SHADOW"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-DARK-SHADOW&hide=css,html&theme=algolia&bg_color=DDD9DA00&text_color=00AEFF" > </a> </p>
