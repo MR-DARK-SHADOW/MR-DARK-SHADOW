@@ -1,7 +1,3 @@
-<h2 align="left">Hi 👋! My name is Dark Shadow and I'm a Small Developer from Sri Lanka</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -16,7 +12,7 @@
 <p align="center">
     <a href="https://github.com/MR-DARK-SHADOW">
         <img align="center"
-        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Dark%20+%20Shadowl+..."
+        src="https://readme-typing-svg.herokuapp.com/?size=30&width=500&lines=HI!!+I+am+Dark%20+%20Shadow+..."
             alt="Typing SVG"
         />
     </a>
